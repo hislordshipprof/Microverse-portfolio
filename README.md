@@ -1,7 +1,7 @@
 # microverse-portfolio
 this is a portfolio created with html and css
 
-## Built With the following stack
+Built With the following stack
 HTML CSS Linters
 Getting Started
 
