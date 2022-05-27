@@ -52,11 +52,12 @@ body {
 }
 
 .main-nav a.icon {
-  background: #f7f7f9;
+  
   display: block;
   position: absolute;
   right: 0;
-  top: 0;
+  top: 23px;
+  color: #6070ff;
 }
 
 .active {
@@ -174,5 +175,10 @@ body {
 }
 
 .fa-facebook-f {
-  color: #4267b2;
+  color: #406bc2;
 }
+
+.fa-linkedin{
+color: #0e77a8e8;
+}
+
