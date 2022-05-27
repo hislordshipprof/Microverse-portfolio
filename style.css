@@ -52,7 +52,6 @@ body {
 }
 
 .main-nav a.icon {
-  
   display: block;
   position: absolute;
   right: 0;
@@ -178,7 +177,6 @@ body {
   color: #406bc2;
 }
 
-.fa-linkedin{
-color: #0e77a8e8;
+.fa-linkedin {
+  color: #0e77a8e8;
 }
-
