@@ -57,6 +57,7 @@ body {
   color: #6070ff;
   right: 0;
   top: 20px;
+  color: #6070ff;
 }
 
 .active {
@@ -376,6 +377,7 @@ body {
   color: white;
 }
 
+<<<<<<< HEAD
 .button1 {
   display: flex;
   align-items: center;
@@ -684,4 +686,12 @@ img:hover {
   position: relative;
   height: 1px;
   margin: 23px 0 139.5px;
+=======
+.fa-facebook-f {
+  color: #406bc2;
+}
+
+.fa-linkedin {
+  color: #0e77a8e8;
+>>>>>>> b54cbda391435c2b0cb5b61285e43e29cbe2ce97
 }
