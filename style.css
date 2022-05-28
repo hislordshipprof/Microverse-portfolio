@@ -164,18 +164,11 @@ body {
 .fa {
   text-decoration: none;
   font-size: 30px;
+  color: #505f79;
 }
 
 .fa:hover {
   opacity: 0.7;
-}
-
-.fa-twitter {
-  color: blue;
-}
-
-.fa-facebook-f {
-  color: #4267b2;
 }
 
 .grid-wrapper {
@@ -365,14 +358,14 @@ body {
 .card-button {
   display: flex;
   flex-direction: column;
-  border: 1px solid #6070ff;
-  border-radius: 8px 8px 8px 8px;
+  border: 1px solid #3648f3;
+  border-radius: 10px 10px 10px 10px;
   position: relative;
   overflow: hidden;
   height: -webkit-min-content;
   height: -moz-min-content;
   width: 124;
-  margin: 24px 57.97% 12px 0%;
+  margin: 24px 45.97% 12px 0%;
 }
 
 .card-button:hover {
@@ -392,6 +385,7 @@ body {
   text-align: center;
   letter-spacing: 0.51px;
   height: 60px;
+  background-color: #fff;
 }
 
 .button1:hover {
@@ -420,6 +414,7 @@ body {
   height: -moz-min-content;
   height: min-content;
   margin: 90px 0 0;
+  border-radius: 0 90px 0 0;
 }
 
 .Aboutme-body {
@@ -429,7 +424,8 @@ body {
   height: -webkit-min-content;
   height: -moz-min-content;
   height: min-content;
-  margin: 10px 14px;
+  margin: 20px 24px;
+  padding: 10px 10px;
 }
 
 .main-title {
