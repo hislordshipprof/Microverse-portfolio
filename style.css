@@ -105,7 +105,7 @@ body {
   overflow: visible;
   margin-top: 80px;
   margin-bottom: 0;
-  font: 700 40px/1.3 'Poppins', Helvetica, Arial, serif;
+  font: 700 40px/1.3 "Poppins", Helvetica, Arial, serif;
   color: #172b4d;
   letter-spacing: 0;
   white-space: pre-wrap;
@@ -118,7 +118,7 @@ body {
   height: min-content;
   margin-top: 35px 9px 0;
   bottom: 50px;
-  font: 16px/1.5 'Poppins', Helvetica, Arial, serif;
+  font: 16px/1.5 "Poppins", Helvetica, Arial, serif;
   color: #344563;
   letter-spacing: 0;
   font-weight: 400;
@@ -131,7 +131,7 @@ body {
   height: min-content;
   margin: 14px 9px 0;
   bottom: 40px;
-  font: 500 16px/1.5 'Poppins', Helvetica, Arial, serif;
+  font: 500 16px/1.5 "Poppins", Helvetica, Arial, serif;
   color: #7f8cff;
   letter-spacing: 0;
 }
@@ -239,7 +239,7 @@ body {
 }
 
 .work-card-title {
-  font: 700 32px/1.37 'Poppins', Helvetica, Arial, serif;
+  font: 700 32px/1.37 "Poppins", Helvetica, Arial, serif;
   color: #172b4d;
   letter-spacing: 0;
   position: relative;
@@ -259,7 +259,7 @@ body {
 }
 
 .card-text-main {
-  font: 600 13px/1.23 'Poppins', Helvetica, Arial, serif;
+  font: 600 13px/1.23 "Poppins", Helvetica, Arial, serif;
   color: #344563;
   letter-spacing: 0;
   position: relative;
@@ -306,7 +306,7 @@ body {
 }
 
 .card-subtext {
-  font: 15px/1.6 'Poppins', Helvetica, Arial, serif;
+  font: 15px/1.6 "Poppins", Helvetica, Arial, serif;
   color: #344563;
   letter-spacing: 0;
   position: relative;
@@ -330,6 +330,7 @@ body {
   margin: 12px 0;
   order: 0;
   flex-grow: 0;
+    
 }
 
 .item {
@@ -345,6 +346,7 @@ body {
   margin: 0 8px;
   color: #6070ff;
   font-weight: 500px;
+
 }
 
 .item:hover {
@@ -380,7 +382,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  font: 500 17px/1.41 'Poppins', Helvetica, Arial, serif;
+  font: 500 17px/1.41 "Poppins", Helvetica, Arial, serif;
   color: #386df2;
   text-align: center;
   letter-spacing: 0.51px;
@@ -392,7 +394,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  font: 500 17px/1.41 'Poppins', Helvetica, Arial, serif;
+  font: 500 17px/1.41 "Poppins", Helvetica, Arial, serif;
   color: #386df2;
   text-align: center;
   letter-spacing: 0.51px;
@@ -465,14 +467,14 @@ body {
   overflow: visible;
   margin-top: 0;
   margin-bottom: 0;
-  font: 700 40px/1.3 'Poppins', Helvetica, Arial, serif;
+  font: 700 40px/1.3 "Poppins", Helvetica, Arial, serif;
   color: #172b4d;
   letter-spacing: 0;
   white-space: pre-wrap;
 }
 
 .About-text {
-  font: 16px/1.5 'Poppins', Helvetica, Arial, serif;
+  font: 16px/1.5 "Poppins", Helvetica, Arial, serif;
   color: #344563;
   letter-spacing: 0;
   position: relative;
@@ -483,7 +485,7 @@ body {
 }
 
 .mini-text-abt {
-  font: 500 16px/1.5 'Poppins', Helvetica, Arial, serif;
+  font: 500 16px/1.5 "Poppins", Helvetica, Arial, serif;
   color: #7f8cff;
   letter-spacing: 0;
   position: relative;
@@ -514,7 +516,7 @@ body {
 .Aboutme-subtitle {
   display: flex;
   align-items: center;
-  font: 500 20px/1.2 'Poppins', Helvetica, Arial, serif;
+  font: 500 20px/1.2 "Poppins", Helvetica, Arial, serif;
   color: black;
   letter-spacing: 0;
   position: relative;
@@ -612,7 +614,7 @@ img:hover {
 .stack-type {
   display: flex;
   align-items: center;
-  font: 500 15px/1.33 'Poppins', Helvetica, Arial, serif;
+  font: 500 15px/1.33 "Poppins", Helvetica, Arial, serif;
   color: #253858;
   letter-spacing: 0;
   position: relative;
@@ -691,6 +693,7 @@ img:hover {
   padding-bottom: 50px;
   background-image: url('img/contact-bg.svg');
   background-size: cover;
+  background-color: #6070ff;
   background-repeat: no-repeat;
   z-index: -2;
 }
@@ -710,9 +713,10 @@ img:hover {
   text-align: center;
   color: white;
   font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+
 }
 
 .contact-container p {
@@ -752,15 +756,15 @@ textarea {
 
 .contact-container button {
   display: flex;
-  font: 500 17px/1.41 'Poppins', Helvetica, Arial, serif;
-  color: #386df2;
-  letter-spacing: 0.51px;
-  border: 1px solid #3648f3;
-  border-radius: 10px 10px 10px 10px;
-  height: 40px;
-  width: 150px;
-  margin-top: 20px;
-  background-color: #fff;
+    font: 500 17px/1.41 "Poppins", Helvetica, Arial, serif;
+    color: #386df2;
+    letter-spacing: 0.51px;
+    border: 1px solid #3648f3;
+    border-radius: 10px 10px 10px 10px;
+    height: 40px;
+    width: 150px;
+    margin-top: 20px;
+    background-color: #fff;
 }
 
 button:hover {
