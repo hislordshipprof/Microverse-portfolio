@@ -692,7 +692,7 @@ img:hover {
   font-family: Poppins, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 40px;
+  font-size: 38px;
 }
 
 .contact-container {
@@ -712,6 +712,7 @@ img:hover {
   font-size: 20px;
   line-height: 28px;
   padding-bottom: 30px;
+  margin: 1px;
 }
 
 .contact-container input,
