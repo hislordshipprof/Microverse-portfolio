@@ -246,7 +246,7 @@ body {
   height: -webkit-min-content;
   height: -moz-min-content;
   height: min-content;
-  margin: 12px 0 0;
+  margin: 11px 0 0;
 }
 
 .work-card-dot {
@@ -692,7 +692,7 @@ img:hover {
   font-family: Poppins, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 38px;
+  font-size: 40px;
 }
 
 .contact-container {
