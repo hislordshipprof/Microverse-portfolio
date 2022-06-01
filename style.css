@@ -686,15 +686,6 @@ img:hover {
   margin: 23px 0 139.5px;
 }
 
-.contact-container .intro-text {
-  text-align: center;
-  color: white;
-  font-family: Poppins, Arial, Helvetica, sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 40px;
-}
-
 .contact-container {
   padding: 103px 24px 0 24px;
   background-image: url("img/contact-form-shapes-mobile.svg");
