@@ -692,6 +692,7 @@ img:hover {
   background-image: url("img/contact-bg.svg");
   background-size: cover;
   background-color: #6070ff;
+  margin: 1px;
   background-repeat: no-repeat;
   z-index: -2;
 }
