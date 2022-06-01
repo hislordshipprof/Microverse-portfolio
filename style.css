@@ -686,15 +686,6 @@ img:hover {
   margin: 23px 0 139.5px;
 }
 
-.contact-wrapper {
-  margin-bottom: 100px;
-  padding-bottom: 50px;
-  background-image: url("img/contact-bg.svg");
-  background-size: cover;
-  background-color: #6070ff;
-  background-repeat: no-repeat;
-}
-
 .contact-container {
   padding: 103px 24px 0 24px;
   background-image: url("img/contact-form-shapes-mobile.svg");
