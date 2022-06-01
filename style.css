@@ -686,14 +686,6 @@ img:hover {
   margin: 23px 0 139.5px;
 }
 
-.contact-container {
-  padding: 103px 24px 0 24px;
-  background-image: url("img/contact-form-shapes-mobile.svg");
-  background-color: #6070ff;
-  background-size: 65% 99%;
-  background-repeat: no-repeat;
-}
-
 .contact-container .intro-text {
   text-align: center;
   color: white;
@@ -701,6 +693,17 @@ img:hover {
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
+}
+
+.contact-container {
+  padding: 103px 24px 0 24px;
+  background-image: url("img/contact-form-shapes-mobile.svg");
+  background-size: 65% 99%;
+  background-color: #6070ff;
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: 15px;
+  z-index: -1;
 }
 
 .contact-container p {
